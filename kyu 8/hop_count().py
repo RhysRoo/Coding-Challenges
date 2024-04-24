@@ -10,6 +10,11 @@ def hoop_count(n):
 
     else:
             print("Great, now move on to tricks") 
+
+# Codewars Best Solution
+
+# def hoopCount(n):
+#     return "Keep at it until you get it" if n<10 else "Great, now move on to tricks"
     
 if __name__ == "__main__":
         print(hoop_count(3))
