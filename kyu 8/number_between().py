@@ -5,6 +5,11 @@ def between(a,b):
         
     return array
 
+# Codewars Best Solution
+
+# def between(a,b):
+#     return list(range(a,b+1))
+
 if __name__ == "__main__":
     print(between(1,4))
     print(between(-2,2))
