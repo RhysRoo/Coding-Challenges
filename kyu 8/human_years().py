@@ -17,4 +17,4 @@ def human_years_cat_years_dog_years(human_years):
     return [human_years, cat_years, dog_years]
 
 if __name__ == '__main__':
-     print(human_years_cat_years_dog_years(5))
+     print(human_years_cat_years_dog_years(21))
